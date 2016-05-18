@@ -29,3 +29,8 @@ my_string = "test2"
 # print a[2:-1:2]
 # print a[0]
 # my_string[1] = 't'
+
+# def my_function(a, b, c, d=10):
+#     print locals()
+
+# my_function(1, 2, c='test')
